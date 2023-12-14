@@ -16,7 +16,8 @@ or github
 ```bash
 pip install git git+https://github.com/ADMantwerp/nice.git 
 ```
-
+### dataset
+資料集來源 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data
 ### Usage
 
 NICE requires acces to the prediction score and trainingdata to generate counterfactual explanations.
